@@ -1,24 +1,7 @@
-# README
+# Flatnote
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Background
 
-Things you may want to cover:
+Flatiron SE Module 4 Project
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Built based on [these wireframes](https://github.com/learn-co-curriculum/Mod-4-Wireframe). Frontend repository located [here](https://github.com/foxten/flatnote-frontend).
